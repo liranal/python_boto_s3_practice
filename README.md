@@ -1,5 +1,3 @@
-This Python project utilizes boto3 to manipulate S3 buckets (an AWS service). Basically it:
-
 1. Create 2 buckets
 2. Create and upload files to buckets
 3. Copy files into target buckets
